@@ -1,0 +1,14 @@
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\obj\Debug\Comercial.csproj.AssemblyReference.cache
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\obj\Debug\Comercial.csproj.CoreCompileInputs.cache
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\bin\Debug\Comercial.exe.config
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\bin\Debug\Comercial.exe
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\bin\Debug\Comercial.pdb
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\obj\Debug\Comercial.exe
+C:\Users\esalv\Desktop\Datos de prgramación\Comercial\Comercial\obj\Debug\Comercial.pdb
+C:\Users\esalv\Desktop\Comercial\Comercial\bin\Debug\Comercial.exe.config
+C:\Users\esalv\Desktop\Comercial\Comercial\bin\Debug\Comercial.exe
+C:\Users\esalv\Desktop\Comercial\Comercial\bin\Debug\Comercial.pdb
+C:\Users\esalv\Desktop\Comercial\Comercial\obj\Debug\Comercial.csproj.AssemblyReference.cache
+C:\Users\esalv\Desktop\Comercial\Comercial\obj\Debug\Comercial.csproj.CoreCompileInputs.cache
+C:\Users\esalv\Desktop\Comercial\Comercial\obj\Debug\Comercial.exe
+C:\Users\esalv\Desktop\Comercial\Comercial\obj\Debug\Comercial.pdb
